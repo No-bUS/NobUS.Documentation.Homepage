@@ -1,0 +1,4 @@
+baseURL = 'http://nobus.cyou/'
+languageCode = 'en-us'
+title = 'NobUS Homepage'
+theme = 'ananke'
