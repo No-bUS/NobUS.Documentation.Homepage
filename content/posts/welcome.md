@@ -18,4 +18,7 @@ You can read some comments on official
 [app]({{< ref "comments/on-official-nusnextbus-app.md" >}})
 and [API]({{< ref "comments/on-official-nusnextbus-api.md" >}})
 for further details.
+
 NobUS aims to overcome these issues and provide a better user experience.
+Our [architecture]{{< ref "design/architecture.md" >}} will lay a solid foundation
+for future development and expansion.
