@@ -1,5 +1,5 @@
 ---
-title: "On Official Nextbus Api"
+title: "On Official NUSNextBUS API"
 date: 2023-05-16T23:53:39+08:00
 draft: false
 ---

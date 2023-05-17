@@ -15,7 +15,7 @@ to help you plan your bus trips on campus.
 
 The official NUSNextBUS app has many limitations and drawbacks.
 You can read some comments on official
-[app]({{< ref "comments/on-official-nextbus-app.md" >}})
-and [API]({{< ref "comments/on-official-nextbus-api.md" >}})
+[app]({{< ref "comments/on-official-nusnextbus-app.md" >}})
+and [API]({{< ref "comments/on-official-nusnextbus-api.md" >}})
 for further details.
 NobUS aims to overcome these issues and provide a better user experience.
