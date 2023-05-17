@@ -2,3 +2,6 @@ baseURL = 'https://nobus.cyou/'
 languageCode = 'en-us'
 title = 'NobUS Homepage'
 theme = 'papermod'
+
+[context.production.environment]
+HUGO_VERSION = "0.111.3"
