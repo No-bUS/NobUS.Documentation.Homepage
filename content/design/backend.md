@@ -4,8 +4,6 @@ date: 2023-05-17T07:57:01+08:00
 draft: false
 ---
 
-# Backend Overview
-
 The backend plays a crucial role in data processing and serving APIs for the application.
 
 ## Technology Stack

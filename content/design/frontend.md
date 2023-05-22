@@ -4,8 +4,6 @@ date: 2023-05-17T07:46:52+08:00
 draft: false
 ---
 
-# Frontend
-
 ## Technology Stack
 
 We use [Uno Platform](https://platform.uno) to build our frontend for NobUS.

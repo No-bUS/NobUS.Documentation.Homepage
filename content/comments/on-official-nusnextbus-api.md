@@ -4,10 +4,7 @@ date: 2023-05-16T23:53:39+08:00
 draft: false
 ---
 
-# Current Issues
-
 ## Redundant Fields
-
 
 The `/BusStops` endpoint returns a list of bus stations.
 Each station has four fields for its name:

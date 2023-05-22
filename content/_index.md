@@ -20,5 +20,5 @@ and [API]({{< ref "comments/on-official-nusnextbus-api.md" >}})
 for further details.
 
 NobUS aims to overcome these issues and provide a better user experience.
-Our [architecture]({{< ref "design/architecture.md" >}}) will lay a solid foundation
+Our [architecture]({{< ref "design/_index.md" >}}) will lay a solid foundation
 for future development and expansion.

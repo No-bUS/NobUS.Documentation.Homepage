@@ -4,8 +4,6 @@ date: 2023-05-16T22:45:22+08:00
 draft: false
 ---
 
-# Current Issues
-
 ## Ambiguous Logic
 
 ### Is Publicity a Top Priority?
